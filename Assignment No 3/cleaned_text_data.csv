@@ -1,7 +1,0 @@
-text,label,clean_text,label_encoded
-I love machine learning!,positive,love machine learning,2
-NLP is a very interesting field.,positive,nlp interesting field,2
-Deep learning improves AI systems.,positive,deep learning improves ai system,2
-Text preprocessing is important in NLP.,neutral,text preprocessing important nlp,1
-I hate bugs in my code.,negative,hate bug code,0
-I don't like waiting for results.,negative,dont like waiting result,0
